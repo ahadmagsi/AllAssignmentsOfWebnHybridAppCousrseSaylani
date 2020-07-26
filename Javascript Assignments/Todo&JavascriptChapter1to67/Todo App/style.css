@@ -1,0 +1,50 @@
+nav h1{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-size: 3em;
+    text-align: center;
+    background-color: tomato;
+}
+body{
+    background-image: url("Images/Savin-NY-Website-Background-Web.jpg");
+    background-repeat: no-repeat;
+}
+ul{
+    list-style: none;
+    width: 400px;
+
+}
+ul li{
+    border: 1px solid red;
+    color: white;
+    font-size: 2em;
+    font-weight: lighter;
+    margin-top: 5px;
+    margin-left: -70px;
+}
+.todo button{
+    background-color: tomato;
+    color: white;
+    border-radius: 5px ;
+    font-size: 1em;
+    font-weight: bolder;
+}
+ul li button{
+    margin-left: 20px;
+}
+.todo{
+    margin-left:30%;
+    margin-top: 50px;
+}
+
+.inp input{
+    border-bottom: 2px solid red;
+    border-radius: 5px;
+    width: auto;
+    height: 30px;
+}
+input:focus{
+    border: none;
+    box-shadow: none;
+}

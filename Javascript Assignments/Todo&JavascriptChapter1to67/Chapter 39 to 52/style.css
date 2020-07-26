@@ -1,0 +1,49 @@
+/* img{
+    border: 1px solid black;
+    margin: 0px auto;
+    height: 300px;
+    margin-left: 100px;
+}
+
+.forCounter{
+    margin-left: 40%;
+    margin-top: 200px;    
+}
+
+.forCounter input{
+    width: 300px;
+    height: 50px;
+}
+.forCounter button{
+    width: 200px;
+    height: 50px;
+    margin-top: 20px;
+} */
+
+
+fieldset p{
+    text-align: justify;
+}
+table{
+    width: 50%;
+}
+.tab{
+    display: none;
+}
+table .show{
+    display: show;
+}
+
+
+.hide{
+	display: none;
+}
+.show{
+	display: show;
+	margin-left: 200px;
+}
+
+
+button{
+    display: fixed;
+}
